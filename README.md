@@ -1,5 +1,5 @@
 ### Hey Everyone! :smiley_cat:
-- :construction: I’m currently working on My Personal WebPage
+- :construction: I’m currently working on a SSR blog with Express & EJS
 - :mortar_board: I’m currently learning TypeScript
 
 Add me on linkedin!
