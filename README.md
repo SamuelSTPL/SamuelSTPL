@@ -1,5 +1,5 @@
 ### Hey Everyone! :smiley_cat:
-- :construction: I’m currently working on a simple web page to fetch some random cat pictures
+- :construction: I’m currently working on a trivia styled quiz to learn typescript
 - :mortar_board: I’m currently learning TypeScript
 
 Add me on linkedin!
